@@ -5,6 +5,7 @@ We are here for you , just go to your movie's folder and type movie_tonight and 
 
 # Pre-requsites:
    - [Matplotllib](http://matplotlib.org/faq/installing_faq.html)
+
 # Installation
  - Open **Bash/movie_tonight.sh** and update your **movie_tonight.py** location in **addr**
  - now 

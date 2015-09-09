@@ -116,7 +116,7 @@ def plot_movie_info(x, y, movie_name_list):
         mp.annotate(str(movie_name_list[i])[0:15] + "(" + str(y[i]) + ")", xy=( x[i], y[i]), xytext=(x[i], y[i]),
                     arrowprops=dict(facecolor='black', shrink=0.05),
                     )
-    mp.savefig('stats/results.png', bbox_inches='tight')
+    mp.savefig('results.png', bbox_inches='tight')
 
 
 if __name__ == '__main__':

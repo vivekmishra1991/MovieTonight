@@ -1,0 +1,13 @@
+# MovieTonight
+MovieTonight is a terminal based python application that recommends movies you should watch tonight. We all have hundreds of movies in our movie's collection but searching each one of them on google for rating ,review etc is a such a tedious task. Isn't it?
+
+We are here for you , just go to your movie's folder and type movie_tonight and see the magic.We search each and every movie of your's on disk ,review its genre, ratings,reviews, actors, directors etc form sites like *IMDB ,Metacritic and Rotten Tomatoes* and provide you a best of your movie tastes.
+
+# Pre-requsites:
+   - [Matplotllib](http://matplotlib.org/faq/installing_faq.html)
+# Installation
+ - Open **Bash/movie_tonight.sh** and update your **movie_tonight.py** location in **addr**
+ - now 
+  ``` sh export PATH="$PATH:'location_movie_tonight.sh'" ```
+
+
